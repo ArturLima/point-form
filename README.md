@@ -1,7 +1,7 @@
 # point-form
 
 
-#Usage
+# Usage
 First you add your credentials into account var:
     var EMPLOYER_CODE = "YOUR CODE";
     var PASSWORD = "YOUR PASSWORD";
